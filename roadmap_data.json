@@ -1,0 +1,46 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "label": "LLM Basics"
+        },
+        {
+            "id": "2",
+            "label": "Core Concepts"
+        },
+        {
+            "id": "3",
+            "label": "Algorithms"
+        },
+        {
+            "id": "4",
+            "label": "Projects"
+        },
+        {
+            "id": "5",
+            "label": "Advanced Topics"
+        }
+    ],
+    "edges": [
+        {
+            "source": "1",
+            "target": "2",
+            "relation": "leads to"
+        },
+        {
+            "source": "2",
+            "target": "3",
+            "relation": "enables"
+        },
+        {
+            "source": "3",
+            "target": "4",
+            "relation": "applied in"
+        },
+        {
+            "source": "4",
+            "target": "5",
+            "relation": "prepares for"
+        }
+    ]
+}
