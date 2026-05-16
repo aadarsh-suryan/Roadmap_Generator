@@ -109,7 +109,6 @@ if st.sidebar.button("🚀 Generate Roadmap"):
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 👨‍💻 About")
 st.sidebar.markdown("""
-**Developed by Aman Kumar**  
-🎓 College Project Submission  
+**Developed by Aadarsh Suryan** 🎓 Guru Gobind Singh Indraprastha University (GGSIPU)  
 🚀 Helps users generate and visualize learning roadmaps  
 """)
