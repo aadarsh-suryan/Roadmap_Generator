@@ -2,7 +2,7 @@
 
 Welcome to the **Roadmap Generator** – a Streamlit web app that uses **Google Gemini LLM** to generate a detailed roadmap for any topic and visualize it interactively using **PyVis**. It's designed for students, educators, and lifelong learners to explore structured learning paths.
 
-🌐 **Live Demo**: [https://roadmap-generator.streamlit.app/](https://roadmap-generator.streamlit.app/)
+
 ![WhatsApp Image 2025-04-09 at 01 26 57_8c17a86b](https://github.com/user-attachments/assets/907b187b-d99c-43de-99af-2680bc498cdb)
 
 
