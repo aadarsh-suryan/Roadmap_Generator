@@ -35,9 +35,8 @@ Welcome to the **Roadmap Generator** – a Streamlit web app that uses **Google 
 
 ## 🧑‍💻 Developed By
 
-**Aman Kumar**  
-🎓 B.Tech Student, NIT Delhi  
-🔧 Built as part of a college project to assist learners in structuring their educational journeys.
+**Aadarsh Suryan**  
+🎓 B.Tech Student, USICT, GGSIPU Delhi  
 
 ---
 
@@ -51,9 +50,4 @@ Welcome to the **Roadmap Generator** – a Streamlit web app that uses **Google 
 
 ---
 
-## 📦 Installation
 
-### 🔧 Clone the repository
-
-```html
-<button onclick="navigator.clipboard.writeText('git clone https://github.com/Aman-Kr09/RoadmapGenerator.git\ncd roadmap-generator')">📋 Copy</button>
