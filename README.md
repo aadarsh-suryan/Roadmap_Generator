@@ -50,4 +50,25 @@ Welcome to the **Roadmap Generator** – a Streamlit web app that uses **Google 
 
 ---
 
+## ⚙️ Installation & Setup
+
+Follow these steps to run the Roadmap Generator locally:
+
+```bash
+# Clone the repository
+git clone [https://github.com/aadarsh-suryan/Roadmap_Generator.git](https://github.com/aadarsh-suryan/Roadmap_Generator.git)
+
+# Navigate to the project directory
+cd Roadmap_Generator
+
+# Install the required dependencies
+pip install -r requirements.txt
+
+# Set up your environment variables
+# Create a .env file in the root directory and add your Google Gemini API key:
+# GEMINI_API_KEY=your_actual_api_key_here
+
+# Run the Streamlit application
+streamlit run app.py
+
 
